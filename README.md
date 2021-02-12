@@ -12,15 +12,15 @@ Planilha para cálculo dos parâmetros e verificação da coordenação e seleti
 
 - Conforme o fluxograma:
 
-![alt text](https://github.com/jeffersonpimenta/Coordenacao-Seletividade/blob/master/imagens/fluxograma.JPG)
+![alt text](https://github.com/jeffersonpimenta/Coordenacao-Seletividade/blob/master/Imagens/fluxograma.JPG)
 
 - O relatório em formato de memorial:
 
-![alt text](https://github.com/jeffersonpimenta/Coordenacao-Seletividade/blob/master/imagens/relatorio.JPG)
+![alt text](https://github.com/jeffersonpimenta/Coordenacao-Seletividade/blob/master/Imagens/relatorio.JPG)
 
 - Gráfico gerado
 
-![alt text](https://github.com/jeffersonpimenta/Coordenacao-Seletividade/blob/master/imagens/grafico.JPG)
+![alt text](https://github.com/jeffersonpimenta/Coordenacao-Seletividade/blob/master/Imagens/grafico.JPG)
 
 ## O arquivo possui quatro planilhas: 
 
